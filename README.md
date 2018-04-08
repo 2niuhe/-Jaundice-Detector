@@ -1,5 +1,11 @@
-#黄疸检测仪 -Arduino
-学校科研训练的项目，用的是Arduino UNO，时间经费等条件有限，对于光纤探头和光电转换电路只做了理论验证，只做了单片机控制部分的实物。
-希望有兴趣的朋友可以完善它。
-##代码对应的连接图是huang_dan_new.jpg
-huang_dan_bb.jpg这个图用的是移位寄存器，也可以实现功能。
+#Arduino UNO Project
+
+> The code works on a  medical detector called  Astragalus detector.And the device is based on Arduino UNO.  
+> Althon I delete the  algorithm for calculating medical values, you can still learn the way using Arduino to contorl TF Strorage Card/LCD screen/Membrane keyboard/buzzer/LED and so on .
+> I have record a video to show the effect.[Arduino](https://www.youtube.com/watch?v=33fNuB9bCAI)
+
+> The spark point of the project is using one wire to control an 4×4 keypad.This can save some pin port.The connect way show as below:
+[connetor way]()
+
+
+**Hope this can help you.**
